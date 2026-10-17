@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vbidhat
-- 👀 I’m interested in Servicenow Application Development
-- 🌱 I’m currently learning Javascript, Python and data structures.
-- 💞️ I’m looking to collaborate on problems on the Servicenow platform.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vipin-kumar-k999/)
+- 👋 Hi, I'm Vipin (@Vbidhat)
+- 🃏 I'm building [Chip Ledger](https://poker-ultimate.vercel.app), a referee and ledger for a home poker game. You deal the cards, it keeps the money: blinds, side pots, a turn clock, and the ledger at the end. It runs on one phone passed round the table, works offline, and your games stay on your phone.
+- 🛠️ Working in TypeScript, React and Supabase, with a test suite that has to watch a bug fail before a fix counts.
+- 🤖 Building with AI coding agents, and the guardrails that keep their work honest.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vipin-kumar-k999/)
